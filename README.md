@@ -3,7 +3,7 @@
 This repository provides a framework for ingesting, processing, and retrieving relevant information from PDF documents using advanced NLP techniques.
 
 
-## Installation -
+## Installation :
 
 ### Step 1: Install Ollama
 
