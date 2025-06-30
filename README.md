@@ -2,6 +2,7 @@
 
 This repository provides a framework for ingesting, processing, and retrieving relevant information from PDF documents using advanced NLP techniques.
 
+---
 
 ## Installation :
 
@@ -27,6 +28,7 @@ To install `ollama` and its dependencies, follow these steps:
     ```bash
     pip install -r requirements.txt
     ```
+---
 
 ### Step 2: Install Additional Dependencies
 
